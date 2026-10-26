@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sift is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners) and added to the network as a stub for full-pipeline profiling.
-- https://siftscience.com/
+Sift provides a real‑time fraud prevention platform that stops payment fraud and account takeover. It offers transparent workflows, global data, and expert analysts, delivering machine‑learning‑driven risk decisions via APIs and dashboards. The service protects e‑commerce, fintech, and digital businesses with customizable rules, scoring, and extensive reporting.
+
+**Areas:** Company · Fraud Prevention · Real-time · Machine Learning · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://siftscience.com/)
+- [Documentation](https://developers.siftscience.com/)
+- [Blog](https://sift.com/blog/)
+- [Compliance](https://trust.siftscience.com/)
+- [Status](https://status.sift.com/?_gl=1*1i2xc1z*_gcl_au*MTU1MjA1MDc5Ny4xNzI5MDEwMTg3*_ga*NDU5MTA0MjYwLjE3MjkwMTAxODc.*_ga_R8SV2EK5NZ*MTczMjkxMjI5Ny44NS4xLjE3MzI5MTI3OTguNTkuMC4w)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/siftscience-com/](https://apis.io/providers/siftscience-com/).
